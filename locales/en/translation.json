@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Funny HTML5 Games",
+    "description": "Free online gaming platform with selected classic HTML5 games, play instantly without downloading!",
+    "features": {
+      "freeToPlay": "Free to Play",
+      "playOnline": "Play Online",
+      "instantLoad": "Instant Load",
+      "multipleGenres": "Multiple Genres"
+    }
+  },
+  "search": {
+    "placeholder": "Search games...",
+    "noResults": "No games found matching your search.",
+    "found": "Found",
+    "games": "Games",
+    "notFound": "No games found",
+    "research": "Try adjusting the search criteria or selecting a different category",
+    "categories": {
+      "all": "All Categories",
+      "action": "Action",
+      "puzzle": "Puzzle",
+      "classic": "Classic",
+      "arcade": "Arcade",
+      "strategy": "Strategy",
+      "sports": "Sports",
+      "racing": "Racing",
+      "adventure": "Adventure"
+    }
+  },
+  "game": {
+    "play": "Play Game",
+    "fullscreen": "Fullscreen",
+    "loading": "Loading game...",
+    "error": "Failed to load game",
+    "backToGames": "Back to Games"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  }
+}
+

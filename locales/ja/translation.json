@@ -1,0 +1,46 @@
+{
+  "header": {
+    "title": "面白いHTML5ゲーム",
+    "description": "厳選されたクラシックHTML5ゲームを無料でプレイできるオンラインゲームプラットフォーム。ダウンロード不要ですぐに遊べます！",
+    "features": {
+      "freeToPlay": "無料でプレイ",
+      "playOnline": "オンラインプレイ",
+      "instantLoad": "即時ロード",
+      "multipleGenres": "多ジャンル対応"
+    }
+  },
+  "search": {
+    "placeholder": "ゲームを検索...",
+    "noResults": "検索条件に一致するゲームは見つかりませんでした。",
+    "found": "見つかった",
+    "games": "ゲーム",
+    "notFound": "ゲームが見つかりません",
+    "research": "検索条件を調整するか、別のカテゴリを選択してください",
+    "categories": {
+      "all": "すべてのカテゴリ",
+      "action": "アクション",
+      "puzzle": "パズル",
+      "classic": "クラシック",
+      "arcade": "アーケード",
+      "strategy": "ストラテジー",
+      "sports": "スポーツ",
+      "racing": "レーシング",
+      "adventure": "アドベンチャー"
+    }
+  },
+  "game": {
+    "play": "ゲームをプレイ",
+    "fullscreen": "フルスクリーン",
+    "loading": "ゲームをロード中...",
+    "error": "ゲームのロードに失敗しました",
+    "backToGames": "ゲーム一覧に戻る"
+  },
+  "common": {
+    "loading": "ロード中...",
+    "error": "エラーが発生しました",
+    "retry": "再試行",
+    "close": "閉じる",
+    "cancel": "キャンセル",
+    "confirm": "確認"
+  }
+}

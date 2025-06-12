@@ -1,0 +1,46 @@
+{
+  "header": {
+    "title": "Giochi HTML5 Divertenti",
+    "description": "Piattaforma di giochi online gratuiti con una selezione di giochi classici HTML5, gioca subito senza scaricare!",
+    "features": {
+      "freeToPlay": "Gioca Gratis",
+      "playOnline": "Gioca Online",
+      "instantLoad": "Caricamento Istantaneo",
+      "multipleGenres": "Molti Generi"
+    }
+  },
+  "search": {
+    "placeholder": "Cerca giochi...",
+    "noResults": "Nessun gioco trovato corrispondente alla tua ricerca.",
+    "found": "Trovati",
+    "games": "Giochi",
+    "notFound": "Nessun gioco trovato",
+    "research": "Prova a modificare i criteri di ricerca o a selezionare un'altra categoria",
+    "categories": {
+      "all": "Tutte le Categorie",
+      "action": "Azione",
+      "puzzle": "Puzzle",
+      "classic": "Classico",
+      "arcade": "Arcade",
+      "strategy": "Strategia",
+      "sports": "Sport",
+      "racing": "Corsa",
+      "adventure": "Avventura"
+    }
+  },
+  "game": {
+    "play": "Gioca",
+    "fullscreen": "Schermo Intero",
+    "loading": "Caricamento del gioco...",
+    "error": "Caricamento del gioco fallito",
+    "backToGames": "Torna ai Giochi"
+  },
+  "common": {
+    "loading": "Caricamento...",
+    "error": "Si è verificato un errore",
+    "retry": "Riprova",
+    "close": "Chiudi",
+    "cancel": "Annulla",
+    "confirm": "Conferma"
+  }
+}

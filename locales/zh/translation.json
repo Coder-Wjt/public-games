@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "趣味HTML5游戏",
+    "description": "免费在线游戏平台，精选经典HTML5游戏，无需下载即可畅玩！",
+    "features": {
+      "freeToPlay": "免费游玩",
+      "playOnline": "在线游戏",
+      "instantLoad": "即时加载",
+      "multipleGenres": "多种类型"
+    }
+  },
+  "search": {
+    "placeholder": "搜索游戏...",
+    "found": "找到",
+    "games": "个游戏",
+    "noResults": "未找到匹配的游戏。",
+    "notFound": "没有找到游戏",
+    "research": "尝试调整搜索条件或选择不同的类别",
+    "categories": {
+      "all": "所有分类",
+      "action": "动作",
+      "puzzle": "益智",
+      "classic": "经典",
+      "arcade": "街机",
+      "strategy": "策略",
+      "sports": "体育",
+      "racing": "竞速",
+      "adventure": "冒险"
+    }
+  },
+  "game": {
+    "play": "开始游戏",
+    "fullscreen": "全屏",
+    "loading": "游戏加载中...",
+    "error": "游戏加载失败",
+    "backToGames": "返回游戏列表"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "retry": "重试",
+    "close": "关闭",
+    "cancel": "取消",
+    "confirm": "确认"
+  }
+}
+

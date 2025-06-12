@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Lustige HTML5-Spiele",
+    "description": "Kostenlose Online-Gaming-Plattform mit ausgewählten klassischen HTML5-Spielen, sofort spielen ohne Herunterladen!",
+    "features": {
+      "freeToPlay": "Kostenlos Spielen",
+      "playOnline": "Online Spielen",
+      "instantLoad": "Sofortiges Laden",
+      "multipleGenres": "Mehrere Genres"
+    }
+  },
+  "search": {
+    "placeholder": "Spiele suchen...",
+    "noResults": "Keine Spiele gefunden, die Ihrer Suche entsprechen.",
+    "found": "Gefunden",
+    "games": "Spiele",
+    "notFound": "Keine Spiele gefunden",
+    "research": "Versuchen Sie, die Suchkriterien anzupassen oder eine andere Kategorie auszuwählen",
+    "categories": {
+      "all": "Alle Kategorien",
+      "action": "Action",
+      "puzzle": "Puzzle",
+      "classic": "Klassisch",
+      "arcade": "Arcade",
+      "strategy": "Strategie",
+      "sports": "Sport",
+      "racing": "Rennen",
+      "adventure": "Abenteuer"
+    }
+  },
+  "game": {
+    "play": "Spiel Starten",
+    "fullscreen": "Vollbild",
+    "loading": "Spiel wird geladen...",
+    "error": "Spiel konnte nicht geladen werden",
+    "backToGames": "Zurück zu den Spielen"
+  },
+  "common": {
+    "loading": "Wird geladen...",
+    "error": "Ein Fehler ist aufgetreten",
+    "retry": "Erneut versuchen",
+    "close": "Schließen",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen"
+  }
+}
+

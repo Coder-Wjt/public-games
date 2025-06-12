@@ -1,0 +1,46 @@
+{
+  "header": {
+    "title": "Jeux HTML5 Amusants",
+    "description": "Plateforme de jeux en ligne gratuits avec une sélection de jeux HTML5 classiques, jouez instantanément sans téléchargement !",
+    "features": {
+      "freeToPlay": "Gratuit à Jouer",
+      "playOnline": "Jouer en Ligne",
+      "instantLoad": "Chargement Instantané",
+      "multipleGenres": "Genres Multiples"
+    }
+  },
+  "search": {
+    "placeholder": "Rechercher des jeux...",
+    "noResults": "Aucun jeu correspondant à votre recherche.",
+    "found": "Trouvé",
+    "games": "Jeux",
+    "notFound": "Aucun jeu trouvé",
+    "research": "Essayez d'ajuster les critères de recherche ou de sélectionner une autre catégorie",
+    "categories": {
+      "all": "Toutes les Catégories",
+      "action": "Action",
+      "puzzle": "Puzzle",
+      "classic": "Classique",
+      "arcade": "Arcade",
+      "strategy": "Stratégie",
+      "sports": "Sports",
+      "racing": "Course",
+      "adventure": "Aventure"
+    }
+  },
+  "game": {
+    "play": "Jouer",
+    "fullscreen": "Plein Écran",
+    "loading": "Chargement du jeu...",
+    "error": "Échec du chargement du jeu",
+    "backToGames": "Retour aux Jeux"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "close": "Fermer",
+    "cancel": "Annuler",
+    "confirm": "Confirmer"
+  }
+}
